@@ -1,0 +1,9 @@
+config:
+  jwt:
+    issuer: lewis.xiao
+    subject: vem
+    audience: portal-web
+    secret: ']Vem2020['
+
+    # 24小时
+    expiration: 604800000
